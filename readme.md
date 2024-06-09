@@ -9,7 +9,7 @@
       'lineColor': '#F8B229',
       'secondaryColor': '#006100',
       'tertiaryColor': '#fff',
-      'backgroundColor': '#fff',
+      'backgroundColor': '#000',
     }
   }
 }%%
